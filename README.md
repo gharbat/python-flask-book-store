@@ -1,1 +1,1 @@
-# gdg-python
+# python-flask-book-store
